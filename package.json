@@ -1,6 +1,6 @@
 {
 	"name": "directus-extension-computed-interface-mganik",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Perform computed value based on other fields",
 	"author": {
 		"email": "tech.support@mganikgroup.com",
@@ -9,7 +9,7 @@
 	"license": "gpl-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mganik-tech/directus-extension-computed-interface.git"
+		"url": "git+https://github.com/mganik-tech/directus-extension-computed-interface.git"
 	},
 	"keywords": [
 		"directus",
